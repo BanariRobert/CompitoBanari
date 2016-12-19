@@ -10,5 +10,9 @@ system.out.println(i);
 }
 //add first change
 //add second change
+<<<<<<< HEAD
 
 //the real last change for the merge error
+=======
+//other changes for merge
+>>>>>>> FIX_BUG
