@@ -1,3 +1,5 @@
-for (int i=0; i.lenght<10; i++){
-system.out.println(i);
+for (int p=0; p.lenght<10; p++){
+system.out.println(p);
 }
+//change i to p
+//third change
